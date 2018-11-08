@@ -82,6 +82,5 @@ X=sup[:,1:3]
 Y=sup[:,3]
 NN=Neural_Network()
 NN.Train(X,Y)
-#print NN.Gradient(X,Y)
-#print yhat
+
 
